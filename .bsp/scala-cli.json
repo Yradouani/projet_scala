@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\yasmi\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\EPSI_Master\\Atelier-big-data_Jeremy_Suzan\\.scala-build\\ide-options-v2.json",
+    "C:\\EPSI_Master\\Atelier-big-data_Jeremy_Suzan"
+  ],
+  "version": "1.1.1",
+  "bspVersion": "2.1.0-M7",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

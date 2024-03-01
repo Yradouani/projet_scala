@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\EPSI_Master\Atelier-big-data_Jeremy_Suzan\traitement.scala:1:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\EPSI_Master\Atelier-big-data_Jeremy_Suzan\traitement.scala:5:15: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m  val spark = SparkSession.builder.appName("SimpleApp").getOrCreate()[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
