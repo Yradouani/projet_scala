@@ -45,7 +45,7 @@ object Main extends App {
     println(s"Le livre $index, première ligne : $firstLine")
     }
   // Écrire chaque livre dans un fichier séparé
-//   bookDataFrames.zipWithIndex.foreach { case (bookDF, index) =>
+  bookDataFrames.zipWithIndex.foreach { case (bookDF, index) =>
 //     val fileName = s"book_$index.txt"
 //     bookDF.write.text(fileName)
 //     println(s"Le livre $index a été écrit dans $fileName")
