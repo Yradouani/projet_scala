@@ -4,7 +4,6 @@ back : 1211
 like : 1065
 alejo : 927
 wara : 899
-nt : 879
 get : 784
 time : 784
 around : 728
@@ -17,8 +16,6 @@ still : 577
 way : 562
 looked : 562
 man : 546
-go : 538
-us : 538
 head : 516
 right : 512
 johnny : 498
@@ -61,7 +58,6 @@ went : 324
 say : 322
 take : 317
 tell : 315
-im : 314
 behind : 311
 want : 310
 people : 309
@@ -111,7 +107,6 @@ hed : 233
 also : 233
 enough : 232
 jason : 232
-m : 232
 towards : 231
 thing : 226
 house : 225
@@ -141,7 +136,6 @@ end : 188
 wall : 188
 almost : 187
 walked : 185
-el : 185
 things : 185
 world : 183
 maybe : 183
@@ -167,8 +161,6 @@ moment : 172
 chapter : 172
 stood : 172
 many : 171
-re : 171
-oh : 170
 seen : 170
 boy : 166
 stopped : 166
@@ -188,7 +180,6 @@ new : 159
 thats : 158
 mutans : 158
 fell : 158
-dr : 157
 body : 156
 later : 156
 done : 155
@@ -207,7 +198,6 @@ young : 149
 large : 148
 friend : 147
 red : 147
-ll : 147
 high : 146
 used : 146
 moved : 145
@@ -274,7 +264,6 @@ grabbed : 119
 road : 118
 parents : 118
 shoulder : 118
-mr : 118
 fire : 117
 arm : 117
 woman : 117
@@ -316,7 +305,6 @@ smile : 107
 year : 106
 stupid : 106
 dad : 106
-ve : 104
 friends : 104
 forward : 104
 attention : 104
@@ -407,7 +395,6 @@ leaned : 87
 eventually : 87
 ask : 87
 david : 87
-ok : 87
 bag : 87
 hey : 87
 sun : 86
@@ -416,7 +403,6 @@ son : 86
 free : 86
 start : 85
 mom : 85
-ca : 85
 ive : 85
 college : 85
 nearly : 85
@@ -459,7 +445,6 @@ wound : 79
 please : 79
 follow : 79
 step : 79
-d : 79
 rob : 79
 hold : 79
 hell : 79
@@ -596,7 +581,6 @@ shut : 62
 moving : 62
 stepped : 62
 shoulders : 62
-id : 62
 seconds : 61
 hospital : 61
 scared : 61
@@ -830,7 +814,6 @@ somewhere : 44
 forever : 44
 serious : 44
 stone : 44
-wo : 44
 strong : 44
 normal : 44
 starting : 44
@@ -917,12 +900,10 @@ pistol : 39
 drug : 39
 lena : 39
 wondering : 39
-2 : 39
 agreed : 39
 trust : 39
 instantly : 39
 worst : 39
-ms : 39
 wondered : 39
 tightly : 39
 waved : 39
@@ -987,7 +968,6 @@ tomorrow : 36
 porch : 36
 third : 36
 ceiling : 36
-3 : 36
 anyways : 36
 shouldnt : 36
 shadows : 36
@@ -1015,7 +995,6 @@ dozen : 35
 cause : 35
 anger : 35
 horror : 35
-uh : 35
 paid : 35
 rushed : 35
 sniders : 35
@@ -1031,7 +1010,6 @@ weak : 35
 flesh : 35
 tired : 35
 speed : 35
-5 : 35
 push : 35
 hung : 35
 helped : 35
@@ -1481,7 +1459,6 @@ reaching : 24
 knocked : 24
 flying : 24
 hoped : 24
-na : 24
 possibly : 24
 repeated : 24
 america : 24
@@ -1530,7 +1507,6 @@ incident : 23
 speaking : 23
 rain : 23
 crying : 22
-4 : 22
 austin : 22
 warning : 22
 happening : 22
@@ -1539,7 +1515,6 @@ states : 22
 miguel : 22
 actions : 22
 apart : 22
-ha : 22
 signs : 22
 sentence : 22
 monitor : 22
@@ -1652,7 +1627,6 @@ finding : 21
 action : 21
 downstairs : 21
 council : 21
-hi : 21
 saddle : 21
 silo : 21
 including : 21
@@ -1695,7 +1669,6 @@ acting : 20
 seths : 20
 alcohol : 20
 crawled : 20
-1 : 20
 flashlight : 20
 smoking : 20
 hilarious : 20
@@ -1769,7 +1742,6 @@ laser : 19
 warehouse : 19
 thrown : 19
 understood : 19
-la : 19
 violence : 19
 surrounding : 19
 protest : 19
@@ -1804,7 +1776,6 @@ insisted : 19
 handler : 19
 rested : 19
 thankfully : 19
-b : 19
 adjusted : 19
 allow : 19
 loss : 19
@@ -1965,7 +1936,6 @@ beasts : 17
 hauled : 17
 shit : 17
 annoyed : 17
-tv : 17
 peshawar : 17
 lamp : 17
 price : 17
@@ -2102,7 +2072,6 @@ kicking : 16
 government : 16
 afford : 16
 bullies : 16
-ci : 16
 ugly : 16
 difference : 16
 sharply : 16
@@ -2204,7 +2173,6 @@ ball : 15
 swimming : 15
 roll : 15
 frost : 15
-ah : 15
 corporal : 15
 whispering : 15
 response : 15
@@ -2306,7 +2274,6 @@ ghost : 14
 backed : 14
 cafeteria : 14
 formed : 14
-12 : 14
 professors : 14
 washed : 14
 pop : 14
@@ -2392,7 +2359,6 @@ frantically : 13
 technology : 13
 mare : 13
 naturally : 13
-20 : 13
 grandma : 13
 stables : 13
 author : 13
@@ -2538,7 +2504,6 @@ socks : 12
 pillow : 12
 gentle : 12
 confederate : 12
-ow : 12
 murmured : 12
 multiple : 12
 aim : 12
@@ -2829,13 +2794,11 @@ sheep : 11
 based : 11
 finishing : 11
 sunlight : 11
-8 : 11
 kfc : 11
 contents : 11
 highly : 11
 honor : 11
 ideas : 11
-6 : 11
 candle : 11
 licking : 11
 meaning : 11
@@ -2843,7 +2806,6 @@ theyve : 11
 straightened : 11
 exhaled : 11
 progress : 11
-10 : 11
 oclock : 11
 jessica : 11
 accounts : 11
@@ -2916,7 +2878,6 @@ circular : 10
 directed : 10
 routine : 10
 morons : 10
-15 : 10
 protested : 10
 catching : 10
 continuing : 10
@@ -3081,7 +3042,6 @@ cassandra : 10
 lightning : 10
 complain : 10
 principal : 10
-9 : 10
 technological : 10
 winter : 10
 approach : 10
@@ -3189,7 +3149,6 @@ twirled : 9
 bandage : 9
 rays : 9
 tribal : 9
-7 : 9
 paradise : 9
 ambulance : 9
 frame : 9
@@ -3234,7 +3193,6 @@ resist : 9
 dogs : 9
 flowed : 9
 bouncing : 9
-ya : 9
 disappointed : 9
 blows : 9
 touching : 9
@@ -3261,7 +3219,6 @@ meal : 9
 pasta : 9
 chapters : 9
 wrinkled : 9
-x : 9
 twice : 9
 darted : 9
 stress : 9
@@ -3416,7 +3373,6 @@ chattanooga : 8
 tarot : 8
 remove : 8
 plowed : 8
-em : 8
 raise : 8
 marco : 8
 trickle : 8
@@ -3440,7 +3396,6 @@ lessons : 8
 bolted : 8
 preferred : 8
 scooted : 8
-11 : 8
 nonetheless : 8
 payment : 8
 volley : 8
@@ -3609,7 +3564,6 @@ scrap : 8
 grounds : 8
 shannon : 8
 scale : 8
-de : 8
 relationship : 8
 crosslegged : 8
 violently : 8
@@ -3662,7 +3616,6 @@ options : 8
 handled : 8
 dealing : 8
 bobbing : 8
-16 : 8
 depressed : 8
 surged : 8
 emotion : 8
@@ -3676,7 +3629,6 @@ dresser : 8
 examining : 8
 influence : 8
 digital : 8
-eh : 8
 smiles : 8
 armorpiercing : 8
 environment : 8
@@ -3692,7 +3644,6 @@ religion : 8
 dating : 8
 spindrift : 8
 sum : 8
-le : 7
 competitors : 7
 signaled : 7
 viewed : 7
@@ -4000,7 +3951,6 @@ billion : 7
 iran : 7
 slaughter : 7
 spying : 7
-14 : 7
 oven : 7
 frowning : 7
 scooped : 7
@@ -4156,7 +4106,6 @@ discuss : 6
 deceased : 6
 paperwork : 6
 nodding : 6
-ii : 6
 dagger : 6
 factor : 6
 snapping : 6
@@ -4243,7 +4192,6 @@ credit : 6
 ferns : 6
 friday : 6
 pillows : 6
-w : 6
 towns : 6
 freaked : 6
 characters : 6
@@ -4415,7 +4363,6 @@ scouts : 6
 rotten : 6
 albeit : 6
 hairy : 6
-um : 6
 outskirts : 6
 classical : 6
 tasty : 6
@@ -4438,13 +4385,11 @@ temper : 6
 teachers : 6
 confessed : 6
 muslims : 6
-pa : 6
 driveway : 6
 puebla : 6
 bolivians : 6
 tools : 6
 unmistakable : 6
-19 : 6
 warn : 6
 brutality : 6
 involving : 6
@@ -4452,7 +4397,6 @@ breach : 6
 pajamas : 6
 bums : 6
 drawers : 6
-ta : 6
 contained : 6
 circumstances : 6
 victory : 6
@@ -4542,7 +4486,6 @@ deposit : 6
 moves : 6
 ridden : 6
 gained : 6
-ed : 6
 delicately : 6
 spleen : 6
 fascination : 6
@@ -4563,7 +4506,6 @@ debra : 6
 jogged : 6
 ruthless : 6
 july : 6
-j : 6
 slice : 6
 tipped : 6
 swaying : 6
@@ -4585,7 +4527,6 @@ mower : 6
 smarter : 6
 tarp : 6
 beretta : 6
-30 : 6
 extensive : 6
 harness : 6
 talents : 6
@@ -4618,7 +4559,6 @@ consequences : 6
 marks : 6
 peeled : 6
 bobbed : 6
-13 : 6
 purposes : 6
 uncomfortably : 6
 removing : 6
@@ -4649,7 +4589,6 @@ maid : 6
 trainer : 6
 gangplank : 6
 progressed : 6
-18 : 6
 adding : 6
 rolls : 6
 weeping : 6
@@ -4753,7 +4692,6 @@ tablet : 5
 serving : 5
 peeking : 5
 banging : 5
-22 : 5
 phase : 5
 hmm : 5
 accented : 5
@@ -4796,9 +4734,8 @@ stamp : 5
 unlit : 5
 gladly : 5
 shabby : 5
-25 : 5
-worship : 5
 brilliant : 5
+worship : 5
 reader : 5
 recess : 5
 cramped : 5
@@ -5047,7 +4984,6 @@ twinkled : 5
 eternity : 5
 earpiece : 5
 junior : 5
-m4 : 5
 teenage : 5
 lilac : 5
 grant : 5
@@ -5171,7 +5107,6 @@ discover : 5
 permanently : 5
 protective : 5
 terminated : 5
-50 : 5
 bruised : 5
 feeble : 5
 smoothly : 5
@@ -5182,8 +5117,8 @@ overlooking : 5
 preparing : 5
 citizens : 5
 artery : 5
-noisily : 5
 stung : 5
+noisily : 5
 telephone : 5
 meanwhile : 5
 satisfying : 5
@@ -5239,7 +5174,6 @@ mentor : 5
 yawned : 5
 gang : 5
 morocco : 5
-ox : 5
 forgiven : 5
 personnel : 5
 tara : 5
@@ -5509,7 +5443,6 @@ jolted : 4
 wedged : 4
 fill : 4
 diet : 4
-al : 4
 ferry : 4
 padlocks : 4
 soaring : 4
@@ -5796,7 +5729,6 @@ lad : 4
 rump : 4
 billowing : 4
 substance : 4
-21 : 4
 henrys : 4
 mixture : 4
 blakes : 4
@@ -5843,7 +5775,6 @@ political : 4
 minibus : 4
 shrieking : 4
 booze : 4
-70 : 4
 silenced : 4
 leering : 4
 coldly : 4
@@ -5857,7 +5788,6 @@ fitful : 4
 visits : 4
 uneasily : 4
 species : 4
-29 : 4
 crouching : 4
 plumbing : 4
 encouraged : 4
@@ -5904,9 +5834,7 @@ blindly : 4
 collection : 4
 crawling : 4
 softened : 4
-er : 4
 swirled : 4
-o : 4
 tracking : 4
 bulb : 4
 snort : 4
@@ -6025,9 +5953,7 @@ dutifully : 4
 paled : 4
 temperature : 4
 grate : 4
-bp : 4
 strict : 4
-17 : 4
 sobs : 4
 devoted : 4
 accommodate : 4
@@ -6102,7 +6028,6 @@ christians : 4
 cathedral : 4
 stitched : 4
 binoculars : 4
-26 : 4
 tale : 4
 gums : 4
 artifacts : 4
@@ -6150,7 +6075,6 @@ refuse : 4
 panties : 4
 principals : 4
 weaker : 4
-pb : 4
 exciting : 4
 practical : 4
 automatic : 4
@@ -6333,9 +6257,7 @@ withdrew : 4
 properly : 4
 sting : 4
 residence : 4
-40 : 4
 blizzard : 4
-84 : 4
 glorious : 4
 cubs : 4
 tones : 4
@@ -6502,7 +6424,6 @@ mouthful : 3
 gardening : 3
 prick : 3
 corolla : 3
-en : 3
 jokingly : 3
 egress : 3
 moody : 3
@@ -6540,11 +6461,9 @@ samaritan : 3
 hooves : 3
 glistening : 3
 motheaten : 3
-24 : 3
 windpipe : 3
 swallow : 3
 rapped : 3
-27 : 3
 supersized : 3
 gloria : 3
 mail : 3
@@ -6622,7 +6541,6 @@ thrillers : 3
 suspicions : 3
 surge : 3
 bites : 3
-33 : 3
 deliberation : 3
 scrape : 3
 helicopters : 3
@@ -6741,7 +6659,6 @@ breathless : 3
 android : 3
 tarps : 3
 believes : 3
-28 : 3
 executions : 3
 ensuing : 3
 sought : 3
@@ -6764,7 +6681,6 @@ slits : 3
 rotting : 3
 faraway : 3
 granite : 3
-pm : 3
 soothing : 3
 swiftly : 3
 attempts : 3
@@ -6789,7 +6705,6 @@ stormy : 3
 swipe : 3
 sundays : 3
 revelation : 3
-32 : 3
 halter : 3
 intrigued : 3
 excruciating : 3
@@ -6944,7 +6859,6 @@ hellish : 3
 moonshine : 3
 butter : 3
 seeping : 3
-0 : 3
 sweeping : 3
 packing : 3
 elanger : 3
@@ -7150,8 +7064,8 @@ culprit : 3
 unbearable : 3
 article : 3
 greetings : 3
-trapping : 3
 thorn : 3
+trapping : 3
 goo : 3
 suture : 3
 stinky : 3
@@ -7174,7 +7088,6 @@ lumbering : 3
 enclosure : 3
 farting : 3
 qantas : 3
-cd : 3
 washington : 3
 evenly : 3
 complaint : 3
@@ -7348,7 +7261,6 @@ worthless : 3
 handguns : 3
 rained : 3
 stitch : 3
-31 : 3
 pairs : 3
 manpower : 3
 tilted : 3
@@ -7443,7 +7355,6 @@ affair : 3
 mature : 3
 freds : 3
 audience : 3
-iv : 3
 demands : 3
 burlap : 3
 critical : 3
@@ -7518,7 +7429,6 @@ chess : 3
 sobbed : 3
 juan : 3
 moschell : 3
-k : 3
 belongings : 3
 blasted : 3
 crisis : 3
@@ -7654,7 +7564,6 @@ judging : 3
 cologne : 3
 blackness : 3
 captives : 3
-23 : 3
 morphed : 3
 fourteenth : 3
 whizzed : 3
@@ -7664,7 +7573,6 @@ imitate : 3
 squeal : 3
 ripe : 3
 cds : 3
-pf : 3
 drapes : 3
 creaking : 3
 vein : 3
@@ -7697,7 +7605,6 @@ happiness : 3
 distribution : 3
 suntanning : 3
 compromised : 3
-34 : 3
 blazed : 3
 thermometer : 3
 dreary : 3
@@ -7729,9 +7636,9 @@ sympathetic : 3
 leaked : 3
 gait : 3
 rented : 3
-discovery : 3
 ventured : 3
 paws : 3
+discovery : 3
 gloved : 3
 dudes : 3
 intensely : 3
@@ -7819,7 +7726,6 @@ nightvision : 3
 vibrations : 3
 mackey : 3
 narrative : 3
-f : 3
 gazing : 3
 realization : 3
 hesitant : 3
@@ -7859,9 +7765,8 @@ latched : 3
 slab : 3
 announcing : 3
 rugged : 3
-sh : 3
-eggs : 3
 glinted : 3
+eggs : 3
 darkening : 3
 unspoken : 3
 cleaning : 3
@@ -7948,7 +7853,6 @@ heightened : 2
 slitting : 2
 pretzel : 2
 ties : 2
-v : 2
 9mm : 2
 buicks : 2
 lama : 2
@@ -8050,7 +7954,6 @@ familiarity : 2
 caps : 2
 lids : 2
 scrolling : 2
-ax : 2
 navigate : 2
 defied : 2
 unexplained : 2
@@ -8205,10 +8108,10 @@ midmorning : 2
 competition : 2
 woken : 2
 fondly : 2
-radios : 2
 shaft : 2
-incapacitated : 2
+radios : 2
 supri : 2
+incapacitated : 2
 disfigured : 2
 gig : 2
 empanadas : 2
@@ -8384,7 +8287,6 @@ contemplated : 2
 rabbit : 2
 twentyeight : 2
 fudge : 2
-mc : 2
 alight : 2
 grain : 2
 deterrent : 2
@@ -8830,7 +8732,6 @@ cpr : 2
 sputtering : 2
 butterscotch : 2
 sixwheeler : 2
-75 : 2
 breast : 2
 dissipated : 2
 billys : 2
@@ -9046,7 +8947,6 @@ gazillion : 2
 recite : 2
 barns : 2
 banter : 2
-80 : 2
 volumes : 2
 opens : 2
 perished : 2
@@ -9155,7 +9055,6 @@ frenzy : 2
 breasts : 2
 stiffening : 2
 arose : 2
-l : 2
 loosely : 2
 protects : 2
 clavicle : 2
@@ -9254,7 +9153,6 @@ shrink : 2
 pries : 2
 obstructing : 2
 plausible : 2
-mm : 2
 retake : 2
 frequently : 2
 dignity : 2
@@ -9269,7 +9167,6 @@ laptop : 2
 rounding : 2
 matronly : 2
 camcorder : 2
-tu : 2
 certified : 2
 strongbox : 2
 equals : 2
@@ -9302,7 +9199,6 @@ smock : 2
 sale : 2
 appointed : 2
 tags : 2
-60 : 2
 november : 2
 absent : 2
 disorientated : 2
@@ -9612,7 +9508,6 @@ petting : 2
 scavenged : 2
 welfare : 2
 desktop : 2
-tt : 2
 yellowed : 2
 jangled : 2
 situated : 2
@@ -9764,9 +9659,9 @@ weathered : 2
 chilangos : 2
 g20 : 2
 uniforms : 2
+massage : 2
 receptionist : 2
 gomez : 2
-massage : 2
 ribcage : 2
 venom : 2
 seasonal : 2
@@ -9801,7 +9696,6 @@ trains : 2
 pill : 2
 sacred : 2
 blurt : 2
-aw : 2
 soda : 2
 bazaar : 2
 rollercoasters : 2
@@ -9984,7 +9878,6 @@ drenching : 2
 arrangements : 2
 gimlet : 2
 whatcha : 2
-aa : 2
 vegetable : 2
 spewing : 2
 craziness : 2
@@ -10044,7 +9937,6 @@ sponsored : 2
 dirtencrusted : 2
 cuz : 2
 rake : 2
-ex : 2
 workings : 2
 blindfold : 2
 marathon : 2
@@ -10367,7 +10259,6 @@ confounding : 2
 mecca : 2
 steam : 2
 inscription : 2
-si : 2
 immensely : 2
 disputes : 2
 agrees : 2
@@ -10398,7 +10289,6 @@ wondrous : 2
 brimstone : 2
 overheard : 2
 therapy : 2
-dc : 2
 paddock : 2
 accumulate : 2
 furtive : 2
@@ -10485,7 +10375,6 @@ thumping : 2
 mailbox : 2
 outburst : 2
 abusive : 2
-86 : 2
 fragment : 2
 discharged : 2
 neatlytrimmed : 2
@@ -10606,7 +10495,6 @@ scuse : 1
 rejoin : 1
 marred : 1
 integrity : 1
-df : 1
 applauded : 1
 retriever : 1
 315 : 1
@@ -10626,7 +10514,6 @@ murdering : 1
 suppliers : 1
 pajama : 1
 systematically : 1
-u : 1
 bloodbaths : 1
 crudely : 1
 thrills : 1
@@ -10843,7 +10730,6 @@ lackluster : 1
 bubbling : 1
 pallid : 1
 frosted : 1
-oz : 1
 modify : 1
 cheekbones : 1
 incountry : 1
@@ -11460,7 +11346,6 @@ walloped : 1
 refusing : 1
 teachings : 1
 guardians : 1
-co : 1
 planting : 1
 imajnaya : 1
 bling : 1
@@ -11712,9 +11597,8 @@ smashes : 1
 swivelhead : 1
 topless : 1
 cruisers : 1
-85 : 1
-doritos : 1
 misgivings : 1
+doritos : 1
 160foot : 1
 heinous : 1
 deathfilled : 1
@@ -11920,7 +11804,6 @@ valiant : 1
 offline : 1
 raiding : 1
 signals : 1
-r : 1
 securing : 1
 rejected : 1
 instrumental : 1
@@ -12009,7 +11892,6 @@ chevrolet : 1
 reshaped : 1
 dubbed : 1
 twigs : 1
-ft : 1
 floppybrimmed : 1
 storyteller : 1
 bidding : 1
@@ -12049,7 +11931,6 @@ disappears : 1
 flunks : 1
 fours : 1
 nestle : 1
-rs : 1
 underbritches : 1
 pacifically : 1
 verge : 1
@@ -12501,7 +12382,6 @@ attends : 1
 tokyo : 1
 cattle : 1
 instruction : 1
-vd : 1
 cape : 1
 quell : 1
 750 : 1
@@ -12568,7 +12448,6 @@ abductors : 1
 misting : 1
 loathing : 1
 2012 : 1
-ug : 1
 fiftyfootwide : 1
 cassock : 1
 remark : 1
@@ -12608,11 +12487,9 @@ tenderly : 1
 footboard : 1
 hispanic : 1
 konkoly : 1
-op : 1
 hotwire : 1
 varied : 1
 feminine : 1
-vu : 1
 dye : 1
 fawns : 1
 scriptures : 1
@@ -13048,7 +12925,6 @@ hikers : 1
 leisurely : 1
 scruffy : 1
 twain : 1
-ps : 1
 farts : 1
 crescendo : 1
 bonita : 1
@@ -13354,8 +13230,8 @@ internationally : 1
 jutting : 1
 chilis : 1
 imbecility : 1
-onset : 1
 bouncer : 1
+onset : 1
 volunteering : 1
 chases : 1
 uncertainty : 1
@@ -13430,7 +13306,6 @@ lionlike : 1
 stopwatch : 1
 lilaccolored : 1
 posts : 1
-ny : 1
 advertise : 1
 collects : 1
 bade : 1
@@ -13627,7 +13502,6 @@ wiggling : 1
 waisthigh : 1
 traversed : 1
 disagrees : 1
-vs : 1
 kindergartener : 1
 raining : 1
 extend : 1
@@ -13799,7 +13673,6 @@ misused : 1
 belch : 1
 rigorous : 1
 dreamvision : 1
-n : 1
 semioval : 1
 grease : 1
 nevada : 1
@@ -13842,7 +13715,6 @@ sizzled : 1
 edgar : 1
 dandruff : 1
 culminated : 1
-73 : 1
 chimed : 1
 beak : 1
 mouthwatering : 1
@@ -13934,8 +13806,8 @@ deft : 1
 transfusions : 1
 dozed : 1
 breakable : 1
-cornered : 1
 rivulet : 1
+cornered : 1
 uncaring : 1
 uncombed : 1
 lenas : 1
@@ -14016,7 +13888,6 @@ significance : 1
 dined : 1
 veterinarian : 1
 myliobatoidei : 1
-uk : 1
 andean : 1
 supportive : 1
 accessible : 1
@@ -14511,8 +14382,8 @@ crucifix : 1
 accomplices : 1
 trifled : 1
 twentyseven : 1
-sleeper : 1
 ale : 1
+sleeper : 1
 chevy : 1
 defenserelated : 1
 benign : 1
@@ -14573,12 +14444,12 @@ menos : 1
 condom : 1
 alalay : 1
 flails : 1
-nicesmelling : 1
 consult : 1
+nicesmelling : 1
 commitments : 1
+culminating : 1
 partiallysubmerged : 1
 existing : 1
-culminating : 1
 stocky : 1
 acceded : 1
 gymnasts : 1
@@ -14702,7 +14573,6 @@ serialkiller : 1
 puddly : 1
 coroner : 1
 complicates : 1
-ho : 1
 smalltime : 1
 roundabout : 1
 flunking : 1
@@ -14870,7 +14740,6 @@ flustered : 1
 stabilizing : 1
 receding : 1
 vest : 1
-35 : 1
 bunyan : 1
 catering : 1
 ensemble : 1
@@ -15084,7 +14953,6 @@ mas : 1
 unnaturally : 1
 compartments : 1
 gloating : 1
-87 : 1
 temptation : 1
 stirs : 1
 impeccably : 1
@@ -15102,8 +14970,8 @@ thingamajigs : 1
 massed : 1
 clunked : 1
 visualize : 1
-honcho : 1
 oscillating : 1
+honcho : 1
 celebrities : 1
 clove : 1
 earlyfrom : 1
@@ -15126,7 +14994,6 @@ unmanageable : 1
 fleshstripped : 1
 grit : 1
 pennsylvania : 1
-pe : 1
 maximize : 1
 downtrodden : 1
 resubmerging : 1
@@ -15135,13 +15002,12 @@ chatting : 1
 whooosh : 1
 hopelessly : 1
 chickened : 1
-90 : 1
+nearing : 1
 chills : 1
 gopher : 1
 hummingbird : 1
 trays : 1
 workroughed : 1
-nearing : 1
 industrious : 1
 observe : 1
 imelda : 1
@@ -15177,7 +15043,6 @@ flats : 1
 economics : 1
 prophecy : 1
 relation : 1
-tp : 1
 fearless : 1
 observer : 1
 pleasantries : 1
@@ -15192,7 +15057,6 @@ tepid : 1
 septum : 1
 belay : 1
 prostitution : 1
-z : 1
 warriors : 1
 kingpins : 1
 vegetarian : 1
@@ -15367,7 +15231,6 @@ pact : 1
 snacks : 1
 atmospheric : 1
 notcool : 1
-hm : 1
 feast : 1
 carpetbaggers : 1
 pitchblackness : 1
@@ -15521,7 +15384,6 @@ suppressor : 1
 quotes : 1
 matelevator : 1
 perfume : 1
-99 : 1
 conveniently : 1
 lacquer : 1
 ezekiel : 1
@@ -15531,7 +15393,6 @@ sprint : 1
 hamlet : 1
 mustve : 1
 antibiotic : 1
-v8 : 1
 dolt : 1
 inferno : 1
 simulate : 1
@@ -15557,12 +15418,11 @@ moneymaking : 1
 staterooms : 1
 mime : 1
 splayed : 1
-fu : 1
 newlyconstructed : 1
 legitimately : 1
+imperceptibly : 1
 coallike : 1
 lacks : 1
-imperceptibly : 1
 exhilaration : 1
 aux : 1
 mourns : 1
@@ -15650,7 +15510,6 @@ chandeliers : 1
 tentacled : 1
 bungled : 1
 insuring : 1
-55 : 1
 tomato : 1
 toads : 1
 pristine : 1
@@ -15708,18 +15567,18 @@ chefs : 1
 inexperienced : 1
 loner : 1
 rethinking : 1
+signing : 1
 context : 1
 amputee : 1
 oversees : 1
 avenues : 1
+wills : 1
 peek : 1
 faultily : 1
-wills : 1
 boyfriendstealing : 1
 learns : 1
 ensued : 1
 goldmund : 1
-signing : 1
 paved : 1
 aloofness : 1
 wildness : 1
@@ -15800,7 +15659,6 @@ ahhhh : 1
 misspelled : 1
 creamybrown : 1
 irritation : 1
-bs : 1
 zombielike : 1
 duplicate : 1
 amol : 1
@@ -15866,12 +15724,12 @@ sniffled : 1
 retiring : 1
 enraged : 1
 accelerated : 1
+overture : 1
 artistry : 1
 sewage : 1
 paring : 1
 pallets : 1
 sweats : 1
-overture : 1
 coil : 1
 sally : 1
 encased : 1
@@ -15951,7 +15809,6 @@ padlocked : 1
 brothersister : 1
 punto : 1
 croatian : 1
-ol : 1
 knobs : 1
 components : 1
 failings : 1
@@ -16058,7 +15915,6 @@ sorbet : 1
 trickery : 1
 357 : 1
 sapped : 1
-ru : 1
 indirect : 1
 mellowed : 1
 jingled : 1
@@ -16201,7 +16057,6 @@ arabian : 1
 arrests : 1
 relocating : 1
 accentuated : 1
-e : 1
 perked : 1
 preferable : 1
 amaze : 1
@@ -16241,7 +16096,6 @@ hangover : 1
 zenlike : 1
 trusty : 1
 dilation : 1
-sp : 1
 theatrical : 1
 polypropylene : 1
 botched : 1
@@ -16295,7 +16149,6 @@ allhmmmm : 1
 ritzy : 1
 sharks : 1
 headlinemaking : 1
-mi : 1
 righteous : 1
 meekness : 1
 ahem : 1
@@ -16547,7 +16400,6 @@ lest : 1
 absurdity : 1
 guitars : 1
 bedpost : 1
-iq : 1
 gashes : 1
 mercurial : 1
 repented : 1
@@ -16636,7 +16488,6 @@ prudence : 1
 messaged : 1
 cinching : 1
 firedrill : 1
-h : 1
 debit : 1
 wane : 1
 denim : 1
@@ -16728,7 +16579,6 @@ bubbled : 1
 personality : 1
 twinge : 1
 clamplike : 1
-xs : 1
 trespasser : 1
 issuing : 1
 lackadaisical : 1
@@ -16833,8 +16683,9 @@ brittani : 1
 slayed : 1
 sorting : 1
 borne : 1
-slaughterhouse : 1
 reliant : 1
+slaughterhouse : 1
+scalded : 1
 navigation : 1
 sterilization : 1
 regularly : 1
@@ -16843,7 +16694,6 @@ treaded : 1
 flaws : 1
 screenedin : 1
 firebreathers : 1
-scalded : 1
 employment : 1
 admirer : 1
 steeped : 1
@@ -16956,7 +16806,6 @@ fourday : 1
 assess : 1
 prattling : 1
 sixfoot : 1
-ma : 1
 swelled : 1
 subconsciously : 1
 secondwind : 1
@@ -17035,7 +16884,6 @@ resulting : 1
 orphanage : 1
 lighten : 1
 converse : 1
-dj : 1
 swath : 1
 retards : 1
 halfdead : 1
@@ -17120,7 +16968,6 @@ nurtured : 1
 catnap : 1
 bereaved : 1
 jawbone : 1
-st : 1
 lamented : 1
 transaction : 1
 rearranging : 1
@@ -17177,6 +17024,7 @@ zenith : 1
 hearty : 1
 nineties : 1
 hoods : 1
+coma : 1
 leafless : 1
 cowpie : 1
 incarnate : 1
@@ -17187,7 +17035,6 @@ indigo : 1
 hymn : 1
 untiring : 1
 ostensibly : 1
-coma : 1
 tiredness : 1
 ascend : 1
 auctions : 1
@@ -17222,7 +17069,6 @@ brace : 1
 shush : 1
 wwwas : 1
 cannoning : 1
-g : 1
 ornatelypainted : 1
 pedestrians : 1
 crafts : 1
@@ -17435,7 +17281,6 @@ suspend : 1
 intimidating : 1
 caymans : 1
 disintegrating : 1
-je : 1
 glib : 1
 blasts : 1
 inquiry : 1
